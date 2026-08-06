@@ -1,0 +1,5 @@
+name=input("Enter your name")
+roll=int(input("input your roll"))
+print("Welcome To the coding World")
+print("My name is ",name)
+print("My roll is ",roll)
